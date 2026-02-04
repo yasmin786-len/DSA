@@ -42,3 +42,9 @@ class LargestElement{
     }
     
     }
+
+
+    // Time Complexity
+    //Brute Force=O(n^2)
+    //Optimal=O(n)
+    //better=O(n log n)
